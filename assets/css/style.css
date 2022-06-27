@@ -9,3 +9,11 @@
     background-repeat: no-repeat;
     background-size: cover;    
 }
+.location{
+    margin: 15px;
+    padding: 5px;
+}
+.mainUbicacion{
+    display: flex;
+    justify-content: space-around;
+}
