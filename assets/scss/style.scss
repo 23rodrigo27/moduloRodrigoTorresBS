@@ -1,0 +1,8 @@
+$colorPrimario:white;
+
+.container-fluid{
+    background-color: $colorPrimario;
+    .ul{
+        color:aqua;
+    }
+}
