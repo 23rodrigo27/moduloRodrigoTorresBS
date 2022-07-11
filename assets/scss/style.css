@@ -3,4 +3,8 @@
 }
 .container-fluid .ul {
   color: aqua;
+}
+
+.tarjeta:hover {
+  transform: translate(10px) scale(1.1);
 }/*# sourceMappingURL=style.css.map */
